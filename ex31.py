@@ -16,8 +16,6 @@ if door == "1":
     elif bear == "2":
         print("The bear eats your legs off.  Good job!")
     else:
-        five = 10 - 2 + 3 - 6
-        print(f"This should be five: {five}") #in just to check!!
         print(f"Well, doing {bear} is probably better.")
         print("Bear runs away.")
 
