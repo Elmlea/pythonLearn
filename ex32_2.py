@@ -27,3 +27,13 @@ for i in range(0,6):
 # now we can print them out too
 for i in elements:
     print(f"Element was {i}")
+
+# trying Study Drill 2
+elements = range(0,6)
+
+for i in elements:
+    print(f"Adding {i} to the list, I hope...!")
+
+# This section sets elements as an implicit list by assigning it to range(0,6)
+# It then generates a variable i, and compares that to the first part of the list
+# We then iterate through###
