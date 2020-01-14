@@ -36,4 +36,8 @@ for i in elements:
 
 # This section sets elements as an implicit list by assigning it to range(0,6)
 # It then generates a variable i, and compares that to the first part of the list
+<<<<<<< HEAD
 # We then iterate through
+=======
+# We then iterate through###
+>>>>>>> e4842943c04a8b8587705bb020a6e9d521d328ee
