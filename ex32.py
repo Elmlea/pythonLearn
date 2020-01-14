@@ -27,3 +27,8 @@ for i in range(0,6):
 # now we can print them out too
 for i in elements:
     print(f"Element was {i}")
+
+# Terminology for Loops
+# for i in <collection>
+# Each lap, the variable i takes on the value of the
+# next object in <collection>
